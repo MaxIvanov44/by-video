@@ -1,0 +1,11 @@
+C:\Users\ivano\source\repos\App 14\bin\Debug\App 15.exe.config
+C:\Users\ivano\source\repos\App 14\bin\Debug\App 15.exe
+C:\Users\ivano\source\repos\App 14\bin\Debug\App 15.pdb
+C:\Users\ivano\source\repos\App 14\obj\Debug\App 15.exe
+C:\Users\ivano\source\repos\App 14\obj\Debug\App 15.pdb
+C:\Users\ivano\source\repos\App 15\bin\Debug\App 15.exe.config
+C:\Users\ivano\source\repos\App 15\bin\Debug\App 15.exe
+C:\Users\ivano\source\repos\App 15\bin\Debug\App 15.pdb
+C:\Users\ivano\source\repos\App 15\obj\Debug\App 15.csprojAssemblyReference.cache
+C:\Users\ivano\source\repos\App 15\obj\Debug\App 15.exe
+C:\Users\ivano\source\repos\App 15\obj\Debug\App 15.pdb
