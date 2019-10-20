@@ -1,0 +1,12 @@
+C:\Users\ivano\Desktop\по видео\App 15\App 16\App 16\obj\Debug\App 16.csprojAssemblyReference.cache
+C:\Users\ivano\Desktop\по видео\App 15\App 16\App 16\bin\Debug\App 16.exe.config
+C:\Users\ivano\Desktop\по видео\App 15\App 16\App 16\bin\Debug\App 16.exe
+C:\Users\ivano\Desktop\по видео\App 15\App 16\App 16\bin\Debug\App 16.pdb
+C:\Users\ivano\Desktop\по видео\App 15\App 16\App 16\obj\Debug\App 16.exe
+C:\Users\ivano\Desktop\по видео\App 15\App 16\App 16\obj\Debug\App 16.pdb
+C:\Users\ivano\Desktop\по видео\App 16\App 16\bin\Debug\App 16.exe.config
+C:\Users\ivano\Desktop\по видео\App 16\App 16\bin\Debug\App 16.exe
+C:\Users\ivano\Desktop\по видео\App 16\App 16\bin\Debug\App 16.pdb
+C:\Users\ivano\Desktop\по видео\App 16\App 16\obj\Debug\App 16.csprojAssemblyReference.cache
+C:\Users\ivano\Desktop\по видео\App 16\App 16\obj\Debug\App 16.exe
+C:\Users\ivano\Desktop\по видео\App 16\App 16\obj\Debug\App 16.pdb
