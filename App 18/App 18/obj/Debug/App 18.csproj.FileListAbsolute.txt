@@ -1,0 +1,6 @@
+C:\Users\ivano\Desktop\по видео\App 18\App 18\bin\Debug\App 18.exe.config
+C:\Users\ivano\Desktop\по видео\App 18\App 18\bin\Debug\App 18.exe
+C:\Users\ivano\Desktop\по видео\App 18\App 18\bin\Debug\App 18.pdb
+C:\Users\ivano\Desktop\по видео\App 18\App 18\obj\Debug\App 18.csprojAssemblyReference.cache
+C:\Users\ivano\Desktop\по видео\App 18\App 18\obj\Debug\App 18.exe
+C:\Users\ivano\Desktop\по видео\App 18\App 18\obj\Debug\App 18.pdb
