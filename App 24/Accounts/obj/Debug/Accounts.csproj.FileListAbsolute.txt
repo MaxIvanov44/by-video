@@ -1,0 +1,5 @@
+C:\Users\ivano\source\repos\App 24\Accounts\bin\Debug\Accounts.dll
+C:\Users\ivano\source\repos\App 24\Accounts\bin\Debug\Accounts.pdb
+C:\Users\ivano\source\repos\App 24\Accounts\obj\Debug\Accounts.csprojAssemblyReference.cache
+C:\Users\ivano\source\repos\App 24\Accounts\obj\Debug\Accounts.dll
+C:\Users\ivano\source\repos\App 24\Accounts\obj\Debug\Accounts.pdb

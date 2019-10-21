@@ -1,0 +1,5 @@
+C:\Users\ivano\source\repos\App 23\App 23\bin\Debug\App 23.exe.config
+C:\Users\ivano\source\repos\App 23\App 23\bin\Debug\App 23.exe
+C:\Users\ivano\source\repos\App 23\App 23\bin\Debug\App 23.pdb
+C:\Users\ivano\source\repos\App 23\App 23\obj\Debug\App 23.exe
+C:\Users\ivano\source\repos\App 23\App 23\obj\Debug\App 23.pdb

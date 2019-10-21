@@ -1,0 +1,6 @@
+C:\Users\ivano\source\repos\App 22\App 22\bin\Debug\App 22.exe.config
+C:\Users\ivano\source\repos\App 22\App 22\bin\Debug\App 22.exe
+C:\Users\ivano\source\repos\App 22\App 22\bin\Debug\App 22.pdb
+C:\Users\ivano\source\repos\App 22\App 22\obj\Debug\App 22.csprojAssemblyReference.cache
+C:\Users\ivano\source\repos\App 22\App 22\obj\Debug\App 22.exe
+C:\Users\ivano\source\repos\App 22\App 22\obj\Debug\App 22.pdb
